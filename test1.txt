@@ -3,3 +3,6 @@ Fix the bug!
 Some important stuff for feature23.
 More important stuff.
 Wohoo!
+Line 1
+Line 2
+Line 3
